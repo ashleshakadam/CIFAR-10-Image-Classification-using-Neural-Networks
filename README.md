@@ -70,9 +70,6 @@ This repository contains an end-to-end implementation of a convolutional neural 
 - Integrate advanced augmentation policies (CutMix, AutoAugment).
 - Deploy model using TensorFlow Lite or ONNX for edge inference.
 
-## License
-This project is released under the MIT License. See [LICENSE](LICENSE) for details.
-
 ## Acknowledgments
 - CIFAR-10 dataset: https://www.cs.toronto.edu/~kriz/cifar.html
 - TensorFlow and Keras communities for comprehensive documentation and examples.
@@ -80,4 +77,3 @@ This project is released under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 *Prepared by Ashlesha Kadam, The University of Texas at Dallas.*
-
